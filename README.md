@@ -46,3 +46,4 @@ function oliverolocal_preprocess_views_view_fullcalendar(array &$variables) {
   }
 
 }
+
