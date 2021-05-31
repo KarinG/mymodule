@@ -2,6 +2,7 @@
 
 themes/oliverolocal -> added oliverolocal.theme
 
+<code>
 <?php
 
 /**
@@ -47,3 +48,4 @@ function oliverolocal_preprocess_views_view_fullcalendar(array &$variables) {
 
 }
 
+</code>
