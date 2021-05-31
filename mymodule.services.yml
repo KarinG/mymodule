@@ -1,0 +1,3 @@
+services:
+  mymodule.fullcalendarview_preprocess:
+    class: Drupal\mymodule\CustomFullcalendarViewPreprocess
